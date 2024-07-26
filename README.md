@@ -1,3 +1,3 @@
-# demo-repository
+# Demo-Repository
 My first repository.<br>
 Author- Saraswat Akshay Anand (21btrcs206)
